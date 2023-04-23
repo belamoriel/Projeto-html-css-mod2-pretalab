@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box; 
+    font-family: 'Open Sans';
+    list-style: none;
+}
+
+#menu {
+   background-color: hsl(288, 39%, 67%);
+   border-radius: 5%;
+   list-style: none;
+   font-family: 'Open Sans'
+
+}
+
+#menu ul {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    gap: 150px;
+    list-style: none;
+    font-family: 'Open Sans'
+}
+
+#menu a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700px;
+    color:white;
+    list-style: none;
+}
+
+.imagem_perfil {
+    border-radius: 5%;
+    height: 180px;
+    margin-top: 10px;
+}
+
+h1 {
+    color: fuchsia;
+    text-align: center;
+    margin-top: 8px;
+    font-family: 'Open Sans'
+}
+
+h3 {
+    color: #FF4DBC;
+    margin-left: 30%;
+    margin-top: 70px;
+}
+
+
+h4 {
+    color: gray;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.perfil {
+    margin-top: 10px;
+    background-color: #E5E5E5;
+    height: 450px;
+}
+
+.resumo {
+    justify-items: center;
+    width: 450px;
+    margin: 0%;
+    margin-bottom: 0px;
+}
+
+
+#formacao ul {
+    margin: 34%;
+    margin-top: 10px;
+    color: #000000;
+    list-style: none;
+    line-height: 2;
+}
+
+#experiencias {
+    background-color: #EDEAEA;
+    margin-top: -460px;
+    height: 260px;
+    line-height: 200%;
+
+}
+#projetos {
+    margin-top: -20px;
+    margin: 5%;
+}
+
+#projetos ul {
+    list-style: none;
+    text-align: left;
+    line-height: 1.5;
+    margin-top: -10px;
+    width: 400px;
+    margin-left: 35%;
+}
+
+.rodape {
+    background-color: #FF4DBC;
+    height: 25px;
+    box-sizing: border-box;
+    border-radius: 10%;
+    list-style: none;
+    justify-content: center;
+
+    
+}
+
+.lista-rodape {
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 300px;
+    display: flex;
+    list-style: none;
+
+
+
+}
+
+
+.estilo-icone {
+    font-size: 32xp;
+    margin-right: 10px
+    
+}
+
+.links {
+    color: white;
+    font-family: 'Open Sans';
+    text-decoration: none;
+    text-align: center;
+    padding-left: 90px;
+    padding-right: -40px;
+    justify-content: center;
+    
+}
+
+
+
+/* #contatos {
+    margin-top: 60px;
+}
+
+#contatos ul {
+    background-color: #FF4DBC;
+    height: 90px;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 2%;
+    gap: 150px
+
+} */
+
